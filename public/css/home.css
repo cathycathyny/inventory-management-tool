@@ -1,0 +1,87 @@
+.home_head{
+	margin-left: 50px;
+	margin-top: 20px;
+	clear: both;
+}
+
+.search_inventory{
+	width: 400px;
+	height: 40px;
+	margin-top: 20px;
+	margin-left: 50px;
+
+}
+
+.location_summary{
+	margin-left: 50px;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+.location_total_devices{
+	width: 200px;
+	height: 100px;
+	float: left;
+	background-color: #f2f2f2;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border: 1px solid black;
+}
+
+.location_total_devices .location_name{
+	width: 200px;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #0391e3;
+	border-bottom: 1px solid black;
+}
+
+.location_total_devices .location_number{
+	width: 200px;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.location_total_devices .location_tag{
+	width: 200px;
+	font-size: 15px;
+	text-align: center;
+	margin-top: 5px;
+}
+
+.category_sum_box{
+	width: 200px;
+	height: 80px;
+	float: left;
+	background-color: #f2f2f2;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border: 1px solid black;
+}
+
+/*.category_sum_box img{
+	width: 55px;
+	height: 55px;
+	float: left;
+	padding-left: 20px;
+	margin-top: 15px;
+}*/
+
+.category_sum_box .number{
+	float: left;
+	width: 200px;
+	height: 40px;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.category_sum_box .name{
+	float: left;
+	width: 200px;
+	font-size: 18px;
+	text-align: center;
+}
